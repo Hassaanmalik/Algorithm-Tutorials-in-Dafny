@@ -1,2 +1,2 @@
 # Algorithm-Tutorials-in-Dafny
-Algorithm Tutorials in Dafny
+This repo will teach you about how to code algorithms using asserstions. In this repo there are 3 alorithms and each includes a PDF about how to install dafny, how some basic asserstions work and about each algorithm. It also contains 2 files for each algorithm, the incorrect verion can be used to teach yourself about the algorthm because by solving it you should understand how the algorithm works. The answer is provided for each algorithm. 
